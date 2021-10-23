@@ -12,3 +12,4 @@ Educational purpose from courses.bootcampspot.com
 Xandromus, courses.bootcampspot.com, LNguyen87
 ## License
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Educational Community License v2.0
