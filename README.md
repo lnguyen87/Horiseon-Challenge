@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Horiseon-Challenge
-=======
->>>>>>> parent of 6609e5c (Rename README.md to index.html)
+
+
 # <Horiseon Search Engine Optimization>
 ## Description
 - What was your motivation? To create a website that meets accessibility standards and is optimized for search engines.
@@ -16,8 +14,4 @@ Educational purpose from courses.bootcampspot.com
 Xandromus, courses.bootcampspot.com, LNguyen87
 ## License
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-<<<<<<< HEAD
 Educational Community License v2.0
-=======
-Educational Community License v2.0
->>>>>>> parent of 6609e5c (Rename README.md to index.html)
